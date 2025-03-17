@@ -1,0 +1,24 @@
+# Środowisko wirtualne
+venv/
+env/
+.env
+
+# Pliki cache Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logi
+logs/
+*.log
+
+# Dane
+data/
+signals/
+
+# Modele
+models/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
